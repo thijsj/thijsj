@@ -18,6 +18,14 @@ I am Thijs Janssen, software developer at [Seecr](https://seecr.nl).
 
 - You can contact me through GitHub or [Twitter](https://twitter.com/thijsj)
 
+## About me/Background
+
+I've been programming mainly in Python for over 20 years mainly creating metadata based search engines and webservices transforming metadata. At Seecr we've created several metadata handling libraries, called Meresco, in which I am/was involved.
+
+Deployment automation is another interest of me, the last few years I'm mainly using Ansible. We started out automating deployment about 20 years ago using bash scripts and trying to write it so it can be run again and again. In search of a configuration tool that fitted that way of doing things I found Ansible. I really like the idea of not having any dependencies on the remote server for the automation. 
+
+If any of this is of interest to you feel free to contact me.
+
 <!--
 **thijsj/thijsj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
