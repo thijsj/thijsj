@@ -8,7 +8,6 @@ I am Thijs Janssen, software developer at [Seecr](https://seecr.nl).
 - (Trail) running
 - Singing at [Gospelkoor Spring](https://gospelkoorspring.nl) a gospel choir based in Voorthuizen.
 - Volunteer at [Cairn Trails & Adventures](https://cairnadventures.nl), helping organizing trailruns in the Netherlands.
-- Fundraiser for [Alpe d'HuZes 2024](https://www.opgevenisgeenoptie.nl/fundraisers/teamjanssen), a Dutch organization to raise money for cancer research.
 
 ## Github usage
 
