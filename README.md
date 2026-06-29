@@ -16,7 +16,7 @@ I am Thijs Janssen, software developer at [Seecr](https://seecr.nl).
 
 ## Contact
 
-- You can contact me through GitHub or [Twitter](https://twitter.com/thijsj)
+- You can contact me through GitHub or my company [Seecr](https://seecr.nl) website.
 
 ## About me/Background
 
